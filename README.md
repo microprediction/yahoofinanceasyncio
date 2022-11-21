@@ -1,2 +1,4 @@
 # yahoofinanceasyncio
-yahoo finance asyncio
+yahoo finance asyncio multiprocessing
+
+Abide by Yahoo terms and conditions. 
